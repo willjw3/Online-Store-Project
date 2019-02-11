@@ -1,6 +1,8 @@
 # Online Store Project
 
-A functioning fictitious online single malt whisky store called "Top Shelf Whisky", built with Node.js, Express, and MongoDB.<br>
+A functioning fictitious online single malt whisky store called "Top Shelf Whisky", built with Node.js, Express, and MongoDB. Authentication by Passport.js and online payments made through [Stripe](https://stripe.com).<br>
+You can check out the working application live by going [**here**](https://willjw3-topshelfwhisky-glitch.glitch.me/)<br>
+Or,<br>
 You can run this application on your local machine:
 1. Download and install MongoDB if you don't have it installed on your machine already.
 2. Navigate to the directory you want to add the project to.
